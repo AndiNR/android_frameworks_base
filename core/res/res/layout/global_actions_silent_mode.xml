@@ -37,7 +37,11 @@
             android:layout_marginEnd="8dp"
             android:layout_marginTop="6dp"
             android:layout_marginBottom="6dp"
+<<<<<<< HEAD
             android:src="@drawable/ic_lock_dnd_total_silence"
+=======
+            android:src="@drawable/ic_power_audio_ring_notif_mute"
+>>>>>>> 99391bff32cf4fbeb8c7db031bc2227ea52cb6db
             android:scaleType="center"
             android:duplicateParentState="true"
             android:background="@drawable/silent_mode_indicator"
@@ -66,7 +70,7 @@
             android:layout_marginEnd="8dp"
             android:layout_marginTop="6dp"
             android:layout_marginBottom="6dp"
-            android:src="@drawable/ic_lock_dnd_priority"
+            android:src="@drawable/ic_power_audio_ring_notif_vibrate"
             android:scaleType="center"
             android:duplicateParentState="true"
             android:background="@drawable/silent_mode_indicator"
@@ -124,7 +128,7 @@
             android:layout_marginEnd="8dp"
             android:layout_marginTop="6dp"
             android:layout_marginBottom="6dp"
-            android:src="@drawable/ic_lock_ring"
+            android:src="@drawable/ic_power_audio_ring_notif"
             android:scaleType="center"
             android:duplicateParentState="true"
             android:background="@drawable/silent_mode_indicator"
